@@ -5,7 +5,7 @@ function Portfolio() {
   return (
     <>
       <Head>
-        <title>Portfolio</title>
+        <title>Portfolio AZRA</title>
       </Head>
 
       <Navbar />
